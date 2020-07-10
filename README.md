@@ -5,6 +5,7 @@ There is even a specific bot for Gamee in Telegram<br>
 This game (Tents and Trees) is kinda like sudoku. 
 It has several rules and while paying attention to those rules you have to complete each level<br>
 I have made a program with python that gives the board and outputs the way to end the game<br>
+The game's link: https://www.gamee.com/game/tentsandtrees
 
 # How-Does-It-Work
 What I've done is that I exactly translated our brains into code. 
